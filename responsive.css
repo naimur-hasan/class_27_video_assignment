@@ -1,0 +1,47 @@
+@media (max-width:800px){
+    .container{
+        width: 500px;
+        
+    }
+    .service-item {
+      
+        font-size: 13px;
+    }
+}
+@media (max-width:766px){
+    .banner h2 {
+       
+        padding: 9px 7px;
+    }
+
+    .banner h1 {
+     
+        width: 377px;
+        padding: 4px 0;
+     
+    }
+ 
+    }
+@media (max-width:536px){
+
+    .service-item {
+      
+        width: 100%;
+       
+      padding: 30px 90px;
+      margin-bottom: 10px;
+    }
+    .service-left {
+       
+        width: 100%;
+        
+    }
+    .service-right {
+       
+        width: 100%;
+    }
+
+    .menu-section {
+       
+    }
+    }
